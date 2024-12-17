@@ -1,7 +1,3 @@
-
-
-
-
 # 风力发电智能运维助手系统
 
 ### ***一、背景与需求分析***
@@ -163,3 +159,17 @@ o 历史运维记录与设备手册
 4. **智能化协作**：通过多平台支持，促进运维人员、管理者及供应商之间的高效协作。
 
 该系统将为风电场设备运维注入前沿AI技术，助力行业向智能化、数字化方向迈进。
+
+### 系统介绍视频
+
+https://www.bilibili.com/video/BV1G7kJYHEAE/?vd_source=02f95cd4ea46eb3f0f6973fe19908225
+
+## 致谢
+
+
+
+- [InternLM](https://github.com/InternLM/InternLM)
+- [xtuner](https://github.com/InternLM/xtuner)
+- [LMDeploy](https://github.com/InternLM/LMDeploy)
+- [lagent](https://github.com/InternLM/lagent)
+- [FunASR](https://github.com/modelscope/FunASR)
