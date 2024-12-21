@@ -162,7 +162,7 @@ o 历史运维记录与设备手册
 
 ### 系统介绍视频
 
-https://www.bilibili.com/video/BV1G7kJYHEAE/?vd_source=02f95cd4ea46eb3f0f6973fe19908225
+https://www.bilibili.com/video/BV1G7kJYHEAE
 
 ## 致谢
 
